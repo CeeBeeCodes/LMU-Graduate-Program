@@ -4,5 +4,7 @@ About Me: This is in relation to my Computability and Complexity final project o
 
 Instructions:
 1) Download the DFA folder and run python on main.py. All of the functions are in utils.py so it is imperative that they are in the same folder.
-2) You can test your own strings by opening up the main.py and scroll all the way to the bottom. You will find commented out variables to that you can uncomment out and test your own strings. 
+2) You can test your own strings by opening up the main.py and scroll all the way to the bottom. You will find commented out variables to that you can uncomment out and test your own strings.
+
+
 **NOTE** you must import the termcolor library for the program to run. I use color text to make the program easier to read.
